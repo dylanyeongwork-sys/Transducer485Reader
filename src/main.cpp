@@ -1,9 +1,10 @@
+// HPM180 RS485 Pressure Transducer Reader with OLED Display 
 #include <Arduino.h>
 #include <string.h>
 #include <U8g2lib.h> //OLED Library
 #include <Wire.h> //I2C Library
 // =========================
-// RS485 Configurations
+// RS485 Configurations 
 // =========================
 
 #define RS485_RX_PIN 20
