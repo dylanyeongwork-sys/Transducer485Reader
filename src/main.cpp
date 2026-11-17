@@ -3,7 +3,7 @@
 #include <U8g2lib.h> //OLED Library
 #include <Wire.h> //I2C Library
 // =========================
-// RS485 Configuration
+// RS485 Configurations
 // =========================
 
 #define RS485_RX_PIN 20
